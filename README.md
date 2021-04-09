@@ -13,7 +13,7 @@ To run the code, you need to install
 4. Pandas and Numpy 
 ```
 
-### Installing
+### Installing the Preequisites
 
 Step # 1
 
